@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "Nihal P K"
+echo "Roll no: 46"
+echo "Current date and time"
+date
